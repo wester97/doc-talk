@@ -1,0 +1,18 @@
+{
+  "generator-plugin-wp": {
+    "name": "Doc Talk",
+    "homepage": "http://westeven.com",
+    "description": "A handy way to manage your practice",
+    "version": "0.0.0",
+    "author": "WeSteven",
+    "authoremail": "westeven@gmail.com",
+    "authorurl": "http://westeven.com",
+    "license": "GPLv2",
+    "slug": "doc-talk",
+    "classname": "Doc_Talk",
+    "classprefix": "DT_",
+    "prefix": "doc_talk",
+    "year": 2017,
+    "currentVersionWP": "4.7.2"
+  }
+}
